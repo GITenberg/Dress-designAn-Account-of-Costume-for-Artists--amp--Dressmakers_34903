@@ -1,0 +1,33 @@
+_repo: Dress-designAn-Account-of-Costume-for-Artists--amp--Dressmakers_34903
+_version: 0.1.0
+alternative_title: 'Dress Design: An Account of Costume for Artists and Dressmakers'
+covers:
+- cover_type: archival
+  image_path: 34903-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hughes, Talbot
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '37312'
+    url: http://www.gutenberg.org/2009/agents/37312
+    wikipedia: http://en.wikipedia.org/wiki/Talbot_Hughes
+description: ''
+gutenberg_bookshelf:
+- Crafts
+- Technology
+gutenberg_issued: '2011-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34903'
+  lccn: '21011941'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clothing and dress'
+- !lcsh 'Clothing and dress -- Great Britain'
+- !lcc 'GT'
+title: 'Dress Design: An Account of Costume for Artists & Dressmakers'
+url: http://www.gutenberg.org/ebooks/34903
